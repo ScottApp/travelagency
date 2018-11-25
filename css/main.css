@@ -1,0 +1,16 @@
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+/* Can play with margin properties to see if I can get spacing to look a little better (if I can't add css flexbox or grids) */
+/* .section-popular .card {
+  margin: 5px 40px;
+}  */
+
